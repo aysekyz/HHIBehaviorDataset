@@ -33,6 +33,6 @@ The contents of each struct is as follows:
 
 * Please cite: Cigil E. Madan, Ayse Kucukyilmaz, T. Metin Sezgin, and Cagatay Basdogan.
 "Recognition of Haptic Interaction Patterns in Dyadic Joint Object Manipulation". 
-IEEE Transactions on Haptics, 2015. (Pre-Print)
+IEEE Transactions on Haptics, 2015. 
 
 
