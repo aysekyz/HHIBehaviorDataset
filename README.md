@@ -54,7 +54,8 @@ During the experiment, the subjects are presented with two different scenes to o
     <dd>- Due to large data size, the videos are not available online. However, you can reconstruct the simulated trials by running <a href="https://github.com/aysekyz/HHIBehaviorDataset/blob/master/data/simulateTrials.zip">this</a> Matlab code. </dd>
     
 <dt>+ Annotations 
-    <dd>- annotations.mat (39 KB) [ <a href="https://www.dropbox.com/s/zaq3z7l609va9li/Koc_haptic_HHI_data.zip?dl=0" target="_blank">download</a> ]</dd>
+    <dd>- annotations.mat (39 KB) [ <https://github.com/aysekyz/HHIBehaviorDataset/blob/master/data/annotations.mat" target="_blank">download</a> ]</dd>
+    <dd>- Helper matlab files to load annotations (39 KB) [ <https://github.com/aysekyz/HHIBehaviorDataset/blob/master/data/loadAnnotations.zip" target="_blank">download</a> ]</dd>
     <dd>- columns 1 and 2: timestamps of the start and the end of the annotation</dd>
     <dd>- column 3: duration of the timestamp</dd>
     <dd>- column 4: labels C1--C6</dd>
