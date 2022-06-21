@@ -55,6 +55,7 @@ During the experiment, the subjects are presented with two different scenes to o
     
 <dt>+ Annotations 
     <dd>- annotations.mat (39 KB) [ <a href="https://github.com/aysekyz/HHIBehaviorDataset/blob/master/data/annotations.mat" target="_blank">download</a> ]</dd>
+    <dd>- annotations.csv (102 KB) [ <a href="https://github.com/aysekyz/HHIBehaviorDataset/blob/master/data/annotations.mat" target="_blank">download</a> ]</dd>
     <dd>- Helper matlab files to load annotations (39 KB) [ <a href="https://github.com/aysekyz/HHIBehaviorDataset/blob/master/data/loadAnnotations.zip" target="_blank">download</a> ]</dd>
     <dd>- columns 1 and 2: timestamps of the start and the end of the annotation</dd>
     <dd>- column 3: duration of the timestamp</dd>
